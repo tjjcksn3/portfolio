@@ -122,11 +122,47 @@
   --bs-form-invalid-border-color: #dc3545;
 }
 
+/* navbar */
+
+.navbar .navbar-nav {
+  display: inline-block;
+  float: none;
+  vertical-align: top;
+}
+
+.navbar .navbar-collapse {
+  text-align: center;
+}
+
+.nav /*applies to what's in the dropdown & links*/
+{
+  background-color:#ffffff;
+  font-weight: bold;
+  font-family: 'DM Sans', sans-serif;
+}
+
+.navbar a:hover
+{ 
+  color: #bbbbbb; 
+  transition: .3s;
+}
+
+.navbar-nav a{
+  color: #ffffff;
+}
+
+.dropdown-menu a{
+  color: #ffffff;
+}
+
+
 
 /* regular css */
 
 
 body {
   position: relative; 
-  font-family: 'DM sans'
+  font-family: 'DM Sans'
 }
+
+
