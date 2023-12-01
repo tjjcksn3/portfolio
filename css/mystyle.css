@@ -121,3 +121,12 @@
   --bs-form-invalid-color: #dc3545;
   --bs-form-invalid-border-color: #dc3545;
 }
+
+
+/* regular css */
+
+
+body {
+  position: relative; 
+  font-family: 'DM sans', sans-serif;
+}
