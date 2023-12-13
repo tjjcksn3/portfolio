@@ -159,25 +159,25 @@
 
 body {
   position: relative; 
-  font-family: 'DM Sans', sans-serif;
+  font-family: 15px 'DM Sans', sans-serif;
 }
 
 
 h1 {
   color: #000;
-  font-family: 'DM Sans', sans-serif;
+  font-family: 30px 'DM Sans', sans-serif;
   font-weight: bolder;
 }
 
 h2 {
   color: #000;
-  font-family: 'Montserrat', sans-serif;
+  font-family: 50px'DM sans', sans-serif;
   font-weight: normal;
 }
 
 h3 {
   color: #000;
-  font-family: 'Montserrat', sans-serif;
+  font-family: 25px 'DM Sans', sans-serif;
   font-weight: bold;
   text-align: center;
 }
