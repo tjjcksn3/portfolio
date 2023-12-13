@@ -187,8 +187,14 @@ section {
 
 .p1 { 
   font-family: 'DM Sans', sans-serif;
-  margin-top: 10px;
+  margin-top: 8px;
   margin-bottom: 10px;
 }
 
 
+.container
+{
+  max-width: 940px;
+  margin-bottom: 75px;
+  padding-right: 35px;
+}
