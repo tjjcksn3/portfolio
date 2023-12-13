@@ -127,7 +127,6 @@
 {
   position: sticky;
   background-color:#ffffff;
-  font-weight: bold;
   font-family: 'DM Sans', sans-serif;
 }
 
@@ -136,7 +135,6 @@
 {
   position: sticky;
   background-color:#ffffff;
-  font-weight: bold;
   font-family: 'DM Sans', sans-serif;
 }
   .navbar a:hover 
@@ -187,7 +185,8 @@ section {
 
 .p1 { 
   font-family: 'DM Sans', sans-serif;
-  margin-top: 8px;
+  font-weight: 400 normal;
+  margin-top: -17px;
   margin-bottom: 10px;
 }
 
