@@ -138,19 +138,9 @@
 
 .navbar a:hover
 { 
-  color: #bbbbbb; 
+  color: #BD3D81; 
   transition: .3s;
 }
-
-.navbar-nav a{
-  color: #ffffff;
-}
-
-.dropdown-menu a{
-  color: #ffffff;
-}
-
-
 
 /* regular css */
 
