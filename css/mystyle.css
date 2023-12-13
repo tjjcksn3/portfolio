@@ -124,7 +124,6 @@
 
 
 .navbar /*only applies to page top is*/
-
 {
   position: sticky;
   background-color:#ffffff;
@@ -133,30 +132,20 @@
 }
 
 
-.nav /*applies to what's in the dropdown & links*/
+.nav
 {
+  position: sticky;
   background-color:#ffffff;
   font-weight: bold;
   font-family: 'DM Sans', sans-serif;
 }
+  .navbar a:hover 
+  {
+  color: #BD3D81
+  }
 
-.navbar a:hover
-{ 
-  color: #BD3D81; 
-  transition: .3s;
-}
-
-.navbar-nav a{
-  color: #000;
-}
-
-.dropdown-menu a{
-  color: #ffffff;
-}
 
 /* regular css */
-
-
 
 body {
   position: relative; 
@@ -169,6 +158,8 @@ h1 {
   font-family:'DM Sans', sans-serif;
   font-size: 30px;
   font-weight: normal 400;
+  margin-top: 20px;
+  margin-bottom: 15px
 }
 
 h2 {
@@ -176,6 +167,8 @@ h2 {
   font-family:'DM sans', sans-serif;
   font-size: 50px;
   font-weight: bold 700;
+  margin-top: 10px;
+  margin-bottom: 30px
 }
 
 h3 {
@@ -183,27 +176,19 @@ h3 {
   font-family:'DM Sans', sans-serif;
   font-size: 25px;
   font-weight: 500 medium;
+  margin-top: 10px;
+  margin-bottom: 10px
 }
-
-footer {
-    position: absolute;
-    display: table;
-    margin-left: auto;
-    margin-right: auto;
-    width: 100%;
-    background-color: #ffffff;
-    text-align: center;
-  }
 
 section {
   padding-top: 6rem;
   padding-bottom: 6rem;
 }
 
-p { 
+.p1 { 
   font-family: 'DM Sans', sans-serif;
-  margin-top: 0;
-  margin-bottom: 1rem;
+  margin-top: 10px;
+  margin-bottom: 10px;
 }
 
 
