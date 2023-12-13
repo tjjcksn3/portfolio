@@ -122,12 +122,16 @@
   --bs-form-invalid-border-color: #dc3545;
 }
 
-/* navbar */
 
+.navbar /*only applies to page top is*/
 
-.navbar .navbar-collapse {
-  text-align: center;
+{
+  position: sticky;
+  background-color:#ffffff;
+  font-weight: bold;
+  font-family: 'DM Sans', sans-serif;
 }
+
 
 .nav /*applies to what's in the dropdown & links*/
 {
@@ -142,12 +146,61 @@
   transition: .3s;
 }
 
+.navbar-nav a{
+  color: #000;
+}
+
+.dropdown-menu a{
+  color: #ffffff;
+}
+
 /* regular css */
 
 
 body {
   position: relative; 
-  font-family: 'DM Sans'
+  font-family: 'DM Sans', sans-serif;
+}
+
+
+h1 {
+  color: #000;
+  font-family: 'DM Sans', sans-serif;
+  font-weight: bolder;
+}
+
+h2 {
+  color: #000;
+  font-family: 'Montserrat', sans-serif;
+  font-weight: normal;
+}
+
+h3 {
+  color: #000;
+  font-family: 'Montserrat', sans-serif;
+  font-weight: bold;
+  text-align: center;
+}
+
+footer {
+    position: absolute;
+    display: table;
+    margin-left: auto;
+    margin-right: auto;
+    width: 100%;
+    background-color: #ffffff;
+    text-align: center;
+  }
+
+section {
+  padding-top: 6rem;
+  padding-bottom: 6rem;
+}
+
+p { 
+  font-family: 'DM Sans', sans-serif;
+  margin-top: 0;
+  margin-bottom: 1rem;
 }
 
 
