@@ -241,3 +241,10 @@ footer {
   background-color: #ffffff;
   text-align: center;
 }
+
+.btn .btn-link
+{
+  margin-top: 1;
+  margin-top: 1;
+  color:#000 
+}
