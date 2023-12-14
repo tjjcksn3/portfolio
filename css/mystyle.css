@@ -226,7 +226,7 @@ section {
 
 .grid
 {
-  
+  gap: 10px;
 }
 
 .footer {
