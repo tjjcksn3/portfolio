@@ -223,3 +223,20 @@ section {
   margin-bottom: 75px;
   padding-right: 35px;
 }
+
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+footer {
+  position: absolute;
+  display: table;
+  margin-left: auto;
+  margin-right: auto;
+  width: 100%;
+  background-color: #ffffff;
+  text-align: center;
+}
