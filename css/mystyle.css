@@ -217,16 +217,14 @@ section {
   padding-top: 10;
 }
 
-.container
+#container1
 {
   max-width: 940px;
   margin-bottom: 75px;
   padding-right: 35px;
 }
 
-img {
-  width: 60px;
-}
+
 
 .footer {
   position: absolute;
