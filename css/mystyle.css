@@ -224,6 +224,11 @@ section {
   padding-right: 35px;
 }
 
+.img-fluid
+{
+max-width: 50%;
+}
+
 .grid
 {
   gap: 30px;
