@@ -215,6 +215,7 @@ section {
   font-weight: 400 normal;
   margin-bottom: 10px;
   padding-top: 10;
+  text-align: left;
 }
 
 #container1
@@ -232,7 +233,7 @@ section {
 
 .img-fluid
 {
-max-width: 30%;
+max-width: 50%;
 height: auto;
 }
 
