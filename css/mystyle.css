@@ -270,8 +270,7 @@ height: auto;
   padding-right: 50px;
 }
 
-.footerp
-{
+.footerp {
   font-family: 'DM Sans', sans-serif;
   font-weight: 400 normal;
   font-size: 20px;
@@ -280,9 +279,16 @@ height: auto;
   padding-left: 15px;
 }
 
-.grid
-{
-  --bs-gap: 1rem 1rem; 
-  --bs-columns:  2; 
-  --bs-rows, 2;
+.container {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.container .image {
+  width: 50%;
+}
+
+.container img {
+  width: calc(100% - (20px * 2));
+  margin: 20px;
 }
