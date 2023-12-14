@@ -137,11 +137,11 @@
   background-color:#ffffff;
   font-family: 'DM Sans', sans-serif;
 }
-  .navbar a:hover 
+
+.navbar a:hover 
   {
   color: #BD3D81
   }
-
 
 .navbar-brand
 {
@@ -244,8 +244,8 @@ section {
 
 .img-fluid
 {
-max-width: 70%;
-height: auto;
+  max-width: 70%;
+  height: auto;
 }
 
 #personalimg
