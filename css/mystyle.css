@@ -122,14 +122,14 @@
   --bs-form-invalid-border-color: #dc3545;
 }
 
+/*nav bar*/
 
-.navbar /*only applies to page top is*/
+.navbar
 {
   position: sticky;
   background-color:#ffffff;
   font-family: 'DM Sans', sans-serif;
 }
-
 
 .nav
 {
@@ -141,6 +141,23 @@
   {
   color: #BD3D81
   }
+
+
+.navbar-brand
+{
+  font-weight: bold;
+  font-size: 20px;
+}
+
+.navbar-link
+{
+  padding-left: 9px;
+  padding-right: 9px;
+  padding-top: 20;
+  padding-bottom: 20;
+  font-size: 12px;
+  text-transform: uppercase;
+}
 
 
 /* regular css */
