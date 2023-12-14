@@ -222,15 +222,17 @@ section {
   max-width: 940px;
 }
 
-.img-fluid
+#container2
 {
-max-width: 50%;
+  max-width: 940px;
 }
 
-.grid
+.img-fluid
 {
-  gap: 30px;
+max-width: 30%;
+height: auto;
 }
+
 
 .footer {
   position: absolute;
