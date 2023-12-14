@@ -149,7 +149,7 @@
   font-size: 20px;
 }
 
-.nav-link a
+.navbar-light .navbar-nav .nav-link 
 {
   padding-left: 9px;
   padding-right: 9px;
