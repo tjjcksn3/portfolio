@@ -220,18 +220,13 @@ section {
 #container1
 {
   max-width: 940px;
-  margin-bottom: 75px;
+  margin-bottom: 30px;
   padding-right: 35px;
 }
 
-
-
-
-
-
 .grid
 {
-  gap: 10px;
+  gap: 30px;
 }
 
 .footer {
