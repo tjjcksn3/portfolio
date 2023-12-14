@@ -147,6 +147,7 @@
 {
   font-weight: bold;
   font-size: 20px;
+  padding-left: 20px;
 }
 
 .navbar-light .navbar-nav .nav-link 
@@ -155,8 +156,9 @@
   padding-right: 9px;
   padding-top: 20;
   padding-bottom: 20;
-  font-size: 12px;
+  font-size: 15px;
   text-transform: uppercase;
+  font-weight: 600 bold;
 }
 
 
