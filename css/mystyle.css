@@ -211,9 +211,10 @@ section {
 
 .p3 { 
   font-family: 'DM Sans', sans-serif;
-  font-size: 25px;
+  font-size: 20px;
   font-weight: 400 normal;
   margin-bottom: 10px;
+  padding-top: 10;
 }
 
 .container
