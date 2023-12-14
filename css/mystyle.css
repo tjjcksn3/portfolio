@@ -232,19 +232,15 @@ img {
   padding-bottom: 10px;
 }
 
-footer {
+.footer {
   position: absolute;
   display: table;
   margin-left: auto;
   margin-right: auto;
+  padding-left: 4px;
+  padding-right: 4px;
   width: 100%;
   background-color: #ffffff;
   text-align: center;
-}
-
-.btn .btn-link
-{
-  margin-top: 1;
-  margin-top: 1;
   color:#000 
 }
