@@ -244,6 +244,12 @@ max-width: 70%;
 height: auto;
 }
 
+#personalimg
+{
+  max-width: 50%;
+  height: auto;
+  text-align: center;
+}
 
 .footer {
   position: absolute;
