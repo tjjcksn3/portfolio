@@ -278,3 +278,10 @@ height: auto;
   text-align: left;
   padding-left: 15px;
 }
+
+.grid
+{
+  --bs-gap: 1rem 1rem; 
+  --bs-columns:  2; 
+  --bs-rows, 2;
+}
