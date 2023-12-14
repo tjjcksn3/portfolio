@@ -225,7 +225,7 @@ section {
 }
 
 img {
-  width: 30px;
+  width: 60px;
 }
 
 .footer {
@@ -233,10 +233,7 @@ img {
   display: table;
   margin-left: auto;
   margin-right: auto;
-  padding-left: 4px;
-  padding-right: 4px;
   width: 100%;
   background-color: #ffffff;
   text-align: center;
-  color:#000 
 }
