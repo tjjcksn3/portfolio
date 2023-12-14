@@ -279,16 +279,7 @@ height: auto;
   padding-left: 15px;
 }
 
-.container {
-  display: flex;
-  flex-wrap: wrap;
-}
-
-.container .image {
-  width: 50%;
-}
-
 .container img {
-  width: calc(100% - (20px * 2));
-  margin: 20px;
+  float: left;
+  width: 50%;
 }
