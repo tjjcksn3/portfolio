@@ -243,7 +243,8 @@ section {
 
 #hpgplace
 {
-  max-width: 60%;
+  height: auto;
+  max-width: 20%;
 }
 
 #personalimg
