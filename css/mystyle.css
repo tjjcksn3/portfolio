@@ -243,15 +243,6 @@ section {
   margin-top: -10px;
 }
 
-#personalimg
-{
-  max-width: 50%;
-  height: auto;
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-}
-
 .footer {
   position: absolute;
   display: table;
