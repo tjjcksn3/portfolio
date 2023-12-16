@@ -256,4 +256,7 @@ section {
 {
 padding-top: 80px;
 border-radius: 10px;
+width: 426px;
+height: 426px;
+max-width: 100%;
 }
