@@ -252,12 +252,7 @@ section {
   background-color: #ffffff;
 }
 
-.footerp {
-  font-family: 'DM Sans', sans-serif;
-  font-weight: 400 normal;
-  font-size: 20px;
-  text-transform: lowercase;
-  text-align: left;
-  padding-left: 20px;
+#image3
+{
+padding-top: 40px;
 }
-
