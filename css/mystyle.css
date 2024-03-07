@@ -259,3 +259,29 @@ width: 426px;
 height: 426px;
 max-width: 100%;
 }
+
+.btn-outline {
+  color: #BD3D81;
+  background-color: #ffffff;
+  border-color: #BD3D81;
+  font-weight: normal;
+  letter-spacing: 0.05em;
+}
+
+.btn-outline {
+  color: #BD3D81;
+  background-color: #ffffff;
+  border-color: #BD3D81;
+  font-weight: normal;
+  border-radius: 0;
+}
+
+.btn-outline:hover,
+.btn-outline:active,
+.btn-outline:focus,
+.btn-outline.active {
+  background: #BD3D81;
+  color: #ffffff;
+  border-color: #BD3D81;
+  
+}
