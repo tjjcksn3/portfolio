@@ -254,6 +254,12 @@ section {
   transition: 1s ease;
 }
 
+#container4{
+  max-width: 940px;
+  margin-top: -10px;
+  text-align: center;
+}
+
 .footer {
   position: absolute;
   display: table;
@@ -294,7 +300,6 @@ max-width: 100%;
   background: #BD3D81;
   color: #ffffff;
   border-color: #BD3D81;
-  
 }
 
   .read_time{
