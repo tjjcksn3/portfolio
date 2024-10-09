@@ -299,10 +299,14 @@ max-width: 100%;
   transition: 1s ease;
   }
 
-  .read_time
-{
+  .read_time{
   letter-spacing: 10px;
   font-size: 10px;
+  text-align: center;
+}
+
+.case_name{
+text-align: center;
 }
 
 /* transitions */
