@@ -260,6 +260,7 @@ border-radius: 10px;
 width: 426px;
 height: 426px;
 max-width: 100%;
+transition:none
 }
 
 .btn-outline {
