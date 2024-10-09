@@ -235,6 +235,7 @@ section {
 {
   max-width: 940px;
   padding-top: 96px;
+  transition-timing-function: ease-in-out;
 }
 
 #container2
