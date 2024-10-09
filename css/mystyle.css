@@ -236,8 +236,7 @@ section {
 {
   max-width: 940px;
   padding-top: 96px;
-  animation: 1.5s fadeInUp;
-
+  animation: 1s fadeInDown;
 }
 
 #container2
@@ -289,12 +288,12 @@ max-width: 100%;
   
 }
 
-@keyframes fadeInUp {
+@keyframes fadeInDown {
   0% {
-    transform: translateY(100%);
+    transform: translateY(-50%);
     opacity: 0;
   }
-  100% {
+  -50% {
     transform: translateY(0%);
     opacity: 1;
   }
