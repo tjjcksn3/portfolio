@@ -299,6 +299,11 @@ max-width: 100%;
   transition: 1s ease;
   }
 
+  .read_time
+{
+  letter-spacing: 10px;
+  font-size: 10px;
+}
 
 /* transitions */
 
