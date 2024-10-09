@@ -258,6 +258,7 @@ section {
   max-width: 940px;
   margin-top: -10px;
   text-align: center;
+  animation: 1s fadeInUp;
 }
 
 .footer {
@@ -302,15 +303,11 @@ max-width: 100%;
   border-color: #BD3D81;
 }
 
-  .read_time{
+  #read_time{
   letter-spacing: 10px;
   font-size: 10px;
-  text-align: center;
 }
 
-.case_name{
-text-align: center;
-}
 
 /* transitions */
 
