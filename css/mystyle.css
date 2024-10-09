@@ -260,7 +260,6 @@ border-radius: 10px;
 width: 426px;
 height: 426px;
 max-width: 100%;
-transition:none
 }
 
 .btn-outline {
@@ -289,11 +288,11 @@ transition:none
   
 }
 
-.p-3{ 
+.container2{ 
   transition: 1s ease;
 }
 
-.p-3:hover{
+.container2:hover{
   -webkit-transform: scale(.7);
   -ms-transform: scale(.7);
   transform: scale(.7);
