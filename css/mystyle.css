@@ -243,6 +243,15 @@ section {
 {
   max-width: 940px;
   margin-top: -10px;
+  transition: 1s ease;
+  animation: 1s fadeInUp;
+}
+
+#containter2:hover{
+  -webkit-transform: scale(.7);
+  -ms-transform: scale(.7);
+  transform: scale(.7);
+  transition: 1s ease;
 }
 
 .footer {
@@ -287,18 +296,6 @@ max-width: 100%;
   border-color: #BD3D81;
   
 }
-
-.container2{ 
-  transition: 1s ease;
-  animation: 1s fadeInUp;
-}
-
-.container2:hover{
-  -webkit-transform: scale(.7);
-  -ms-transform: scale(.7);
-  transform: scale(.7);
-  transition: 1s ease;
-  }
 
   .read_time{
   letter-spacing: 10px;
