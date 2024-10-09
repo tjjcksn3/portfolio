@@ -158,7 +158,6 @@
   padding-bottom: 20;
   font-size: 15px;
   font-variant: small-caps;
-
   font-weight: 600 bold;
 }
 
@@ -171,7 +170,8 @@
 .navbar-light .navbar-nav .dropdown .dropdown-item
 {
   font-size: 15px;
-  text-transform: lowercase;
+  font-variant: small-caps;
+  /*text-transform: lowercase;readd if fails to .navbar-light .navbar-nav*/
   font-weight: 600 bold;
   text-align: center;
 }
