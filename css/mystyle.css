@@ -157,7 +157,8 @@
   padding-top: 20;
   padding-bottom: 20;
   font-size: 15px;
-  text-transform: lowercase;
+  font-variant: small-caps;
+
   font-weight: 600 bold;
 }
 
@@ -235,7 +236,7 @@ section {
 {
   max-width: 940px;
   padding-top: 96px;
-  transition-timing-function: ease-in-out;
+
 }
 
 #container2
