@@ -290,6 +290,7 @@ max-width: 100%;
 
 .container2{ 
   transition: 1s ease;
+  animation: 1s fadeInUp;
 }
 
 .container2:hover{
