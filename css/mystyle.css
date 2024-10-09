@@ -243,11 +243,15 @@ section {
 {
   max-width: 940px;
   margin-top: -10px;
-  transition: 1s ease;
+
   animation: 1s fadeInUp;
 }
 
-#containter2:hover{
+#box{
+  transition: 1s ease;
+}
+
+#box:hover{
   -webkit-transform: scale(.7);
   -ms-transform: scale(.7);
   transform: scale(.7);
@@ -304,8 +308,8 @@ max-width: 100%;
 }
 
   #read_time{
-  letter-spacing: 10px;
-  font-size: 10px;
+  letter-spacing: 5px;
+  font-size: 20px;
 }
 
 
