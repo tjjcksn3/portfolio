@@ -312,6 +312,11 @@ max-width: 100%;
   font-size: 20px;
 }
 
+#case_name{
+  margin-top: 20px;
+  margin-bottom: 15px
+}
+
 
 /* transitions */
 
