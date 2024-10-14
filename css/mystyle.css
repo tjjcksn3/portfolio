@@ -260,7 +260,7 @@ section {
 
 #container4{
   max-width: 940px;
-  margin-top: -10px;
+  padding-top: 96px;
   text-align: center;
   animation: 1s fadeInUp;
 }
