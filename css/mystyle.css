@@ -307,6 +307,15 @@ max-width: 100%;
   border-color: #BD3D81;
 }
 
+
+hr {
+  display: inline-block;
+  width: 819px;
+  height: 0px;
+  position: relative;
+  top: 0.5em;
+  border: 1px solid black;
+}
   #read_time{
   letter-spacing: 3px;
   font-size: 20px;
