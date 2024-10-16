@@ -310,11 +310,12 @@ max-width: 100%;
 
 hr {
   display: inline-block;
-  width: 819px;
+  width: auto;
   height: 0px;
   position: relative;
   top: 0.5em;
-  border: 1px solid black;
+  border: 1px; 
+  color: #000;
 }
   #read_time{
   letter-spacing: 3px;
