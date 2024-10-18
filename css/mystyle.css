@@ -236,6 +236,7 @@ section {
 {
   padding-top: 96px;
   animation: 1s fadeInUp;
+  max-width: 984;
 }
 
 #container2
