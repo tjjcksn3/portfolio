@@ -241,6 +241,13 @@ section {
 
 #container2
 {
+  max-width: 819px;
+  margin-top: -10px;
+  animation: 1s fadeInUp;
+}
+
+#container2
+{
   max-width: 940px;
   margin-top: -10px;
   animation: 1s fadeInUp;
