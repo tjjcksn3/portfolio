@@ -239,16 +239,18 @@ section {
   max-width: 984;
 }
 
-#container2
-{
-  max-width: 819px;
-  margin-top: -10px;
-  animation: 1s fadeInUp;
-}
 
 #container2
 {
   max-width: 940px;
+  margin-top: -10px;
+  animation: 1s fadeInUp;
+}
+
+#container3
+{
+  padding-top: 96px;
+  max-width: 819px;
   margin-top: -10px;
   animation: 1s fadeInUp;
 }
