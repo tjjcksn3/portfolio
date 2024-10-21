@@ -239,17 +239,6 @@ section {
   max-width: 984;
 }
 
-<<<<<<< Updated upstream
-=======
-#container3
-{
-  max-width: 819px;
-  padding-top: 96px;
-  animation: 1s fadeInUp;
-}
-
->>>>>>> Stashed changes
-
 #container2
 {
   max-width: 940px;
@@ -260,7 +249,7 @@ section {
 #container3
 {
   padding-top: 96px;
-  max-width: 826px;
+  max-width: 940px;
   margin-top: -10px;
   animation: 1s fadeInUp;
 }
