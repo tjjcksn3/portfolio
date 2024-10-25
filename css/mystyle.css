@@ -335,7 +335,8 @@ hr {
   border: 1px; 
   color: #000;
 }
-  #read_time{
+  
+.read_time{
   letter-spacing: 3px;
   font-size: 20px;
 }
