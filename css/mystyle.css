@@ -283,6 +283,12 @@ section {
   animation: 1s fadeInUp;
 }
 
+#bd1{
+  background-color: #052c65;
+  color: white;
+}
+
+
 .footer {
   position: absolute;
   display: table;
