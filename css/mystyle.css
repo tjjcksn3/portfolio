@@ -283,7 +283,7 @@ section {
   animation: 1s fadeInUp;
 }
 
-#bd1{
+.container-bg{
   background-color: #052c65;
   color: white;
 }
